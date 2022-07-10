@@ -38,7 +38,3 @@ Seems like the takeaway shows how much control you can have with these features,
 ```html
 <!-- English -->
 <script src="../dist/js/languages/en.js"></script>
-
-<!-- 繁體中文 -->
-<script src="../dist/js/languages/zh-tw.js"></script>
-```
