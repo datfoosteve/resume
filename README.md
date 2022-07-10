@@ -5,9 +5,9 @@
 
 ## Table of Contents
 
-1. [What is this?](https://github.com/datfoosteve/resume/edit/main/README.md#what-is-this)
+1. [What is this?](https://github.com/datfoosteve/resume/main/README.md#what-is-this)
 
-2. [Where I got this from?](https://github.com/datfoosteve/resume/edit/main/README.md#where-i-got-this-from)
+2. [Where I got this from?](https://github.com/datfoosteve/resume/main/README.md#where-i-got-this-from)
 
 3. [Information](https://github.com/kelvintaywl/action-jsonresume-export#github-action-for-exporting-jsonresume)
 
