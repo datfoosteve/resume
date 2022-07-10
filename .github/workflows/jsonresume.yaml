@@ -39,5 +39,5 @@ jobs:
         uses: ad-m/github-push-action@master
         if: steps.commit.outputs.exit_code == 0
         with:
-          github_token: ${{ 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 }}
+          github_token: ${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}
           branch: ${{ github.ref }}
