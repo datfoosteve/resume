@@ -19,7 +19,7 @@ jobs:
       - uses: kelvintaywl/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
-          theme: macchiato
+          theme: elegant
           resume_filepath: resume.json
           # modifies the index.html in-place
           output_filepath: docs/index.html
@@ -39,5 +39,5 @@ jobs:
         uses: ad-m/github-push-action@master
         if: steps.commit.outputs.exit_code == 0
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ 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 }}
           branch: ${{ github.ref }}
