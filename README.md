@@ -18,7 +18,9 @@
 --------
 ## What is this? <a name="whatisthis"></a>
 -------
+
 Seems like to me that this is some kind of bot that automatically commits and updates changes on repositories depending on what user defined "actions" are encoded into it. This github action seems to go through multiple checks and automatically transcribes the resume.json file into html, and then automaticallly deploys it to my github pages.
+
 --------
 
 ## Where I got this from? <a name="whereigotthisfrom"></a>
@@ -28,6 +30,7 @@ Seems like to me that this is some kind of bot that automatically commits and up
 ## Information <a name="info"></a>
 
 ### [JSON Resume builder](https://jsonresume.org/)
+
 --------
 
 ## Takeaway <a name="tk"></a>
