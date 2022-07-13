@@ -32,6 +32,11 @@
         "url": "https://dribbble.com/stephenandarlie"
       },
       {
+        "network": "Credly",
+        "username": "Stephen Puthenpurackal",
+        "url": "https://www.credly.com/badges/04c3f603-fc93-4869-86e9-c5630832ed43/public_url"
+      },
+      {
         "network": "codepen",
         "username": "datfoosteve",
         "url": "https://codepen.io/datfoosteve"
@@ -135,7 +140,7 @@
     },
     {
       "institution": "Southern Methodist University",
-      "url": "https://www.smu.edu/",
+      "url": "https://www.credly.com/badges/04c3f603-fc93-4869-86e9-c5630832ed43/public_url",
       "area": "Coding Bootcamp",
       "studyType": "Full Stack Web Development",
       "startDate": "2021-11-01",
