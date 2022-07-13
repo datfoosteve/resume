@@ -49,6 +49,15 @@
       }
     ]
   },
+  {
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.your-badge.com"
+    }
+  ]
+},
   "work": [
     {
       "name": "Pharmacy Technician(Not Related)",
