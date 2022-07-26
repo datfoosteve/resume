@@ -183,14 +183,8 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": ["Machine Learning, Neural Networks, Coding, Automation, Engineering, Simulation, Fabrication"]
+      "language": "Grounded in C++, Javascript, Python",
+      "fluency": "Great"
     }
   ],
   "meta": {
