@@ -33,11 +33,6 @@
         "url": "https://dribbble.com/stephenandarlie"
       },
       {
-        "network": "Credly",
-        "username": "Stephen Puthenpurackal",
-        "url": "https://www.credly.com/badges/04c3f603-fc93-4869-86e9-c5630832ed43/public_url"
-      },
-      {
         "network": "codepen",
         "username": "datfoosteve",
         "url": "https://codepen.io/datfoosteve"
@@ -49,15 +44,6 @@
       }
     ]
   },
-  {
-  "certificates": [
-    {
-      "name": "AWS Certified Solutions Architect",
-      "issuer": "Amazon Web Services",
-      "url": "https://www.your-badge.com"
-    }
-  ]
-},
   "work": [
     {
       "name": "Pharmacy Technician(Not Related)",
