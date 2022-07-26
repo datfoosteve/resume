@@ -45,6 +45,21 @@
     ]
   },
   "work": [
+     {
+      "name": "Data Entry Technician",
+      "location": "St Francis Specialitt clinic and OBGYN",
+      "description": "Worked with reading and writing patient documents and transcribing them onto a digital format, in regards to the doctor who needed these files to clinically diagnose and give active care to her patients.",
+      "position": "Data Entry Technician",
+      "url": "https://tinyurl.com/St-Francis-Speciality-Clinic",
+      "startDate": "2010-05-01",
+      "endDate": "2011-03-01",
+      "summary": "Worked together with staff to accomodate customers",
+      "highlights": [
+        "Scanned documents and saved in database to keep records of essential organizational information.",
+        "Reviewed and updated client correspondence files and database information to maintain accurate records.",
+        "Evaluated source documents to locate information needed for each data entry field."
+      ]
+    },
     {
       "name": "Pharmacy Technician(Not Related)",
       "location": "CVS Pharmacy, Wichita Falls, TX",
@@ -89,21 +104,6 @@
         "Maintained transaction security by verifying payment cards against identification."
       ]
     },
-    {
-      "name": "Data Entry Technician",
-      "location": "St Francis Specialitt clinic and OBGYN",
-      "description": "Worked with reading and writing patient documents and transcribing them onto a digital format, in regards to the doctor who needed these files to clinically diagnose and give active care to her patients.",
-      "position": "Data Entry Technician",
-      "url": "https://tinyurl.com/St-Francis-Speciality-Clinic",
-      "startDate": "2010-05-01",
-      "endDate": "2011-03-01",
-      "summary": "Worked together with staff to accomodate customers",
-      "highlights": [
-        "Scanned documents and saved in database to keep records of essential organizational information.",
-        "Reviewed and updated client correspondence files and database information to maintain accurate records.",
-        "Evaluated source documents to locate information needed for each data entry field."
-      ]
-    }
   ],
   "education": [
     {
