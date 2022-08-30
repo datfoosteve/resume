@@ -78,7 +78,7 @@
         "HTML / JSX",
         "SCSS / CSS / BEM / STYLED COMPONENTS",
         "JAVASCRIPT / TYPESCRIPT",
-        "Java"
+        "Java",
         "C++",
         "SQL",
         "BOOTSTRAP",
@@ -87,11 +87,12 @@
         "Node.js",
         "REDUX / APOLLO"
       ]
-    },
+    }
+  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
      "theme": "flat",
     "version": "v1.0.0",
     "lastModified": ""
   }
-
+}
