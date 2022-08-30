@@ -7,7 +7,6 @@
     "email": "Puthenpurackalstephen@gmail.com",
     "phone": "(469) 735-7590",
     "url": "https://datfoosteve.github.io/firstReactPortfolio/",
-    "summary": "An Inquisitive Computer Science student, skilled with strong foundations in Mathamathics, Technological Acuity, Creativity, and inferential logic. Committed and Challenge driven, my ambition in life is to apply my skillsets to benefit others, whether it be people around me or the corportation that I work for. My Prior occupations do not have any relation to who I am currently due to the change of study and interests during the course of my college career, but shows excellence in the ability to collaborate, communicate, and work with others efficiently.",
     "location": {
       "address": "Dandelion Dr",
       "postalCode": "Tx 75149",
@@ -25,21 +24,6 @@
         "network": "linkedin",
         "username": "stephenputhenpurackal",
         "url": "https://www.linkedin.com/in/stephenputhenpurackal/"
-      },
-      {
-        "network": "dribbble",
-        "username": "stephenandarlie",
-        "url": "https://dribbble.com/stephenandarlie"
-      },
-      {
-        "network": "codepen",
-        "username": "datfoosteve",
-        "url": "https://codepen.io/datfoosteve"
-      },
-      {
-        "network": "Figma",
-        "username": "Stephen John",
-        "url": "https://www.figma.com/@datfoosteve"
       }
     ]
   },
@@ -58,50 +42,6 @@
         "Reviewed and updated client correspondence files and database information to maintain accurate records.",
         "Evaluated source documents to locate information needed for each data entry field."
       ]
-    },
-    {
-      "name": "Pharmacy Technician(Not Related)",
-      "location": "CVS Pharmacy, Wichita Falls, TX",
-      "description": "Pharmacy technicians are medical professionals who work alongside pharmacists to help and support patients and make sure they get the best care.",
-      "position": "Pharmacy Technician",
-      "url": "https://www.cvs.com",
-      "startDate": "2015-09-01",
-      "endDate": "2016-05-01",
-      "summary": "Learned how to work as a Team with pharmacist and other pharmacy Pharmacy Technician to ensure Patients recieved and was knowledgable about their medication in a retail setting",
-      "highlights": [
-        "Counted, measured, and compounded medications following standard procedures.",
-        "Located and measured medications according to prescription information, making modifications as instructed by pharmacists and providers",
-        "Communicated with patients to collect information about prescriptions and medical conditions or arrange consultations with pharmacist",
-        "Resolved non-routine issues like third-party billing, computer system and customer service issues",
-        "Answered incoming phone calls and addressed questions from customers and healthcare providers"
-      ]
-    },
-    {
-      "name": "Pharmacy Technician(Not Related)",
-      "location": "CVS Pharmacy, Balch Springs, TX",
-      "description": "Same as above",
-      "position": "Pharmacy Technician",
-      "url": "https://www.cvs.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-05-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Front Desk Receptionist(Not Related)",
-      "location": "La Quinta, DeSoto, TX",
-      "description": "A front desk clerk represents the first point of contact with the clients of a business, hotel or doctor's office. They perform essential front desk administrative duties including answering phone calls, greeting clients, and overseeing the office budget.",
-      "position": "Front Desk Receptionist",
-      "url": "Https://laquinta.com",
-      "startDate": "2012-07-01",
-      "endDate": "2014-03-01",
-      "summary": "Worked together with staff to accomodate customers",
-      "highlights": [
-        "Answered multi-line phone system to respond to inquiries and transfer calls to correct departments and personnel",
-        "Maintained files and records by implementing effective filing systems that boosted efficiency and organization.",
-        "Reported facility and room maintenance problems to appropriate personnel for immediate remediation",
-        "Maintained transaction security by verifying payment cards against identification."
-      ]
     }
   ],
   "education": [
@@ -112,26 +52,7 @@
       "studyType": "Bachelor",
       "startDate": "2018-08-01",
       "endDate": "2020-01-01",
-      "score": "3.0",
-      "courses": [
-      "CS1044 - Computer Science 1", 
-      "CS1063 - Data Structures and ADT", 
-      "CS2084 - Intro to Computer Architecture", 
-      "CS2143 - Object-Oriented Programming", 
-      "CS2433 - Discrete Structrures and Analysis", 
-      "CS3013 - Advanced Structures & Algorithms" ,
-      "CS3233 - Theory of Computation"
-      ]
-    },
-    {
-      "institution": "University of North Texas",
-      "url": "https://www.unt.edu/",
-      "area": "Computer Science",
-      "studyType": "Bachelor(In Progress)",
-      "startDate": "2020-01-01",
-      "endDate": "2023-01-01",
-      "score": "3.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "score": "3.0"
     },
     {
       "institution": "Southern Methodist University",
@@ -152,43 +73,24 @@
   "skills": [
     {
       "name": "Programming and Web Development",
-      "level": "6 Years worth of Coding",
+      "level": "Junior",
       "keywords": [
         "HTML / JSX",
         "SCSS / CSS / BEM / STYLED COMPONENTS",
         "JAVASCRIPT / TYPESCRIPT",
+        "Java"
         "C++",
-        "Bootstrap",
+        "SQL",
+        "BOOTSTRAP",
         "REACT / NEXT",
         "Python",
         "Node.js",
         "REDUX / APOLLO"
       ]
     },
-   {
-      "name": "Skillsets",
-      "level": "Beginner ",
-      "keywords": ["Full Stack Web Developer",
-                   "Computer Automated Design",
-                   "Woodworking",
-                   "CNC Machining",
-                   "Electrical Engineering",
-                   "PCB and Circuit Board Design",
-                   "Sound Audio Engineering",
-                   "IOT Device Engineering",
-                   "Micro-Controller - Automation(esp-32)"
-                  ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Grounded in C++, Javascript, Python",
-      "fluency": "Great"
-    }
-  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-     "theme": "elegant",
+     "theme": "flat",
     "version": "v1.0.0",
     "lastModified": ""
   }
