@@ -1,4 +1,4 @@
-# Json Resume - Action
+# Json Resume - GitHub Actions
 
 --------
 
