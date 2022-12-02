@@ -3,7 +3,7 @@
 --------
 
 
-# Table of Contents
+## Table of Contents
 
 1. [What is this?](#whatisthis)
 
@@ -16,14 +16,14 @@
 --------
 
 --------
-## What is this? <a name="whatisthis"></a>
+### What is this? <a name="whatisthis"></a>
 -------
 
 Seems like to me that this is some kind of bot that automatically commits and updates changes on repositories depending on what user defined "actions" are encoded into it. This github action seems to go through multiple checks and automatically transcribes the resume.json file into html, and then automaticallly deploys it to my github pages.
 
 --------
 
-## Where I got this from? <a name="whereigotthisfrom"></a>
+### Where I got this from? <a name="whereigotthisfrom"></a>
 -------
 [This Repository](https://github.com/kelvintaywl/action-jsonresume-export "This Repository") was the one that showed me how to do this.
 
@@ -533,7 +533,7 @@ Schema Information:
 }
 ```
 
-### [JSON Resume builder](https://jsonresume.org/)
+#### [JSON Resume builder](https://jsonresume.org/)
 
 --------
 
