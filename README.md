@@ -542,6 +542,8 @@ Schema Information:
 Ive never used a workflow before, im guessing this makes my life much much easier. Also this bot seems to work recursively. cool
 I guess the takeaway shows how much control you can have, depending on whether if you can spend the time.
 
+edit: 12/7/2022 - WTF AM I ON, i have no idea what is going on anymore, gotta go back to the basics
+
 
 ```html
 <!-- English -->
